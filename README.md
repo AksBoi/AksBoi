@@ -11,7 +11,7 @@
 
 <hr>
 
-[DM me on Whatsapp](https://wa.me/+919461049101)!
+[DM me on Whatsapp!](https://wa.me/+919461049101)
 
 <p>
     <a href="https://www.instagram.com/akshatsurana01/" target="blank">

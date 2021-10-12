@@ -6,9 +6,8 @@
 
 ###  CSE(2nd Yr.) at SKIT, Jaipur
 ###  Into a Do.. While loop as entry was compulsory and exit is controlled with B.Tech Degree condition.
-
-I am a coding enthusiast who wishes to learn, explore and understand.
-Really interested in anything that can help me grow my coding skills.
+###  I am a coding enthusiast who wishes to learn, explore and understand.
+###  Really interested in anything that can help me grow my coding skills.
 
 <hr>
 

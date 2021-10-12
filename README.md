@@ -4,7 +4,7 @@
 
 <hr>
 
-###  CSE(2nd Yr.) 
+###  CSE(2nd Yr.) at SKIT, Jaipur
 ###  Into a Do.. While loop as entry was compulsory and exit is controlled with B.Tech Degree condition.
 
 I am a coding enthusiast who wishes to learn, explore and understand.
